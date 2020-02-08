@@ -1,0 +1,4 @@
+node_modules
+
+# built file
+public/bundle.js
