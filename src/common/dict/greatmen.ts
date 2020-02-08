@@ -1,0 +1,27 @@
+const greatmen = [
+  { id: 1, name: "Michael Jordan", category: "greatmen" },
+  { id: 2, name: "Napoleon", category: "greatmen" },
+  { id: 3, name: "Elizabeth Taylor", category: "greatmen" },
+  { id: 4, name: "Carl Gustav Jung", category: "greatmen" },
+  { id: 5, name: "Socrates", category: "greatmen" },
+  { id: 6, name: "Harrison Ford", category: "greatmen" },
+  { id: 7, name: "Babe Ruth", category: "greatmen" },
+  { id: 8, name: "Johann Wolfgang von Goethe", category: "greatmen" },
+  { id: 9, name: "Alexander the Great", category: "greatmen" },
+  { id: 10, name: "Dante Alighieri", category: "greatmen" },
+  { id: 11, name: "Joan of Arc", category: "greatmen" },
+  { id: 12, name: "Theodore Roosevelt", category: "greatmen" },
+  { id: 13, name: "Martin Luther King, Jr.", category: "greatmen" },
+  { id: 14, name: "Helen Keller", category: "greatmen" },
+  { id: 15, name: "Gaius Julius Caesar", category: "greatmen" },
+  { id: 16, name: "Martin Luther", category: "greatmen" },
+  { id: 17, name: "Coco Chanel", category: "greatmen" },
+  { id: 18, name: "Walt Disney", category: "greatmen" },
+  { id: 19, name: "Robert De Niro", category: "greatmen" },
+  { id: 20, name: "Winston Churchill", category: "greatmen" },
+  { id: 21, name: "Stephen William Hawking", category: "greatmen" },
+  { id: 22, name: "Woody Allen", category: "greatmen" },
+  { id: 23, name: "Jim Rogers", category: "greatmen" },
+  { id: 24, name: "Thomas Edison", category: "greatmen" }
+];
+export default greatmen;
